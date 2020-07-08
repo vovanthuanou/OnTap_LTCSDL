@@ -1,0 +1,30 @@
+D:\github\school\LTCSDL\LTCSDL-192\LTCSDL.DAL\bin\Debug\netcoreapp3.1\LTCSDL.DAL.deps.json
+D:\github\school\LTCSDL\LTCSDL-192\LTCSDL.DAL\bin\Debug\netcoreapp3.1\LTCSDL.DAL.runtimeconfig.json
+D:\github\school\LTCSDL\LTCSDL-192\LTCSDL.DAL\bin\Debug\netcoreapp3.1\LTCSDL.DAL.runtimeconfig.dev.json
+D:\github\school\LTCSDL\LTCSDL-192\LTCSDL.DAL\bin\Debug\netcoreapp3.1\LTCSDL.DAL.dll
+D:\github\school\LTCSDL\LTCSDL-192\LTCSDL.DAL\bin\Debug\netcoreapp3.1\LTCSDL.DAL.pdb
+D:\github\school\LTCSDL\LTCSDL-192\LTCSDL.DAL\bin\Debug\netcoreapp3.1\LTCSDL.Common.dll
+D:\github\school\LTCSDL\LTCSDL-192\LTCSDL.DAL\bin\Debug\netcoreapp3.1\LTCSDL.Common.pdb
+D:\github\school\LTCSDL\LTCSDL-192\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.csprojAssemblyReference.cache
+D:\github\school\LTCSDL\LTCSDL-192\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.csproj.CoreCompileInputs.cache
+D:\github\school\LTCSDL\LTCSDL-192\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.AssemblyInfoInputs.cache
+D:\github\school\LTCSDL\LTCSDL-192\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.AssemblyInfo.cs
+D:\github\school\LTCSDL\LTCSDL-192\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.csproj.CopyComplete
+D:\github\school\LTCSDL\LTCSDL-192\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.dll
+D:\github\school\LTCSDL\LTCSDL-192\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.pdb
+D:\github\school\LTCSDL\LTCSDL-192\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.genruntimeconfig.cache
+F:\------------THUAN----------------\Năm 3\Kỳ 2\LTCSDL\ontap\LTCSDL.DAL\bin\Debug\netcoreapp3.1\LTCSDL.DAL.deps.json
+F:\------------THUAN----------------\Năm 3\Kỳ 2\LTCSDL\ontap\LTCSDL.DAL\bin\Debug\netcoreapp3.1\LTCSDL.DAL.runtimeconfig.json
+F:\------------THUAN----------------\Năm 3\Kỳ 2\LTCSDL\ontap\LTCSDL.DAL\bin\Debug\netcoreapp3.1\LTCSDL.DAL.runtimeconfig.dev.json
+F:\------------THUAN----------------\Năm 3\Kỳ 2\LTCSDL\ontap\LTCSDL.DAL\bin\Debug\netcoreapp3.1\LTCSDL.DAL.dll
+F:\------------THUAN----------------\Năm 3\Kỳ 2\LTCSDL\ontap\LTCSDL.DAL\bin\Debug\netcoreapp3.1\LTCSDL.DAL.pdb
+F:\------------THUAN----------------\Năm 3\Kỳ 2\LTCSDL\ontap\LTCSDL.DAL\bin\Debug\netcoreapp3.1\LTCSDL.Common.dll
+F:\------------THUAN----------------\Năm 3\Kỳ 2\LTCSDL\ontap\LTCSDL.DAL\bin\Debug\netcoreapp3.1\LTCSDL.Common.pdb
+F:\------------THUAN----------------\Năm 3\Kỳ 2\LTCSDL\ontap\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.csprojAssemblyReference.cache
+F:\------------THUAN----------------\Năm 3\Kỳ 2\LTCSDL\ontap\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.AssemblyInfoInputs.cache
+F:\------------THUAN----------------\Năm 3\Kỳ 2\LTCSDL\ontap\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.AssemblyInfo.cs
+F:\------------THUAN----------------\Năm 3\Kỳ 2\LTCSDL\ontap\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.csproj.CoreCompileInputs.cache
+F:\------------THUAN----------------\Năm 3\Kỳ 2\LTCSDL\ontap\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.csproj.CopyComplete
+F:\------------THUAN----------------\Năm 3\Kỳ 2\LTCSDL\ontap\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.dll
+F:\------------THUAN----------------\Năm 3\Kỳ 2\LTCSDL\ontap\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.pdb
+F:\------------THUAN----------------\Năm 3\Kỳ 2\LTCSDL\ontap\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.genruntimeconfig.cache

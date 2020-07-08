@@ -1,0 +1,18 @@
+D:\github\school\LTCSDL\LTCSDL-192\LTCSDL.Common\bin\Debug\netcoreapp3.1\LTCSDL.Common.deps.json
+D:\github\school\LTCSDL\LTCSDL-192\LTCSDL.Common\bin\Debug\netcoreapp3.1\LTCSDL.Common.dll
+D:\github\school\LTCSDL\LTCSDL-192\LTCSDL.Common\bin\Debug\netcoreapp3.1\LTCSDL.Common.pdb
+D:\github\school\LTCSDL\LTCSDL-192\LTCSDL.Common\obj\Debug\netcoreapp3.1\LTCSDL.Common.csprojAssemblyReference.cache
+D:\github\school\LTCSDL\LTCSDL-192\LTCSDL.Common\obj\Debug\netcoreapp3.1\LTCSDL.Common.csproj.CoreCompileInputs.cache
+D:\github\school\LTCSDL\LTCSDL-192\LTCSDL.Common\obj\Debug\netcoreapp3.1\LTCSDL.Common.AssemblyInfoInputs.cache
+D:\github\school\LTCSDL\LTCSDL-192\LTCSDL.Common\obj\Debug\netcoreapp3.1\LTCSDL.Common.AssemblyInfo.cs
+D:\github\school\LTCSDL\LTCSDL-192\LTCSDL.Common\obj\Debug\netcoreapp3.1\LTCSDL.Common.dll
+D:\github\school\LTCSDL\LTCSDL-192\LTCSDL.Common\obj\Debug\netcoreapp3.1\LTCSDL.Common.pdb
+F:\------------THUAN----------------\Năm 3\Kỳ 2\LTCSDL\ontap\LTCSDL.Common\bin\Debug\netcoreapp3.1\LTCSDL.Common.deps.json
+F:\------------THUAN----------------\Năm 3\Kỳ 2\LTCSDL\ontap\LTCSDL.Common\bin\Debug\netcoreapp3.1\LTCSDL.Common.dll
+F:\------------THUAN----------------\Năm 3\Kỳ 2\LTCSDL\ontap\LTCSDL.Common\bin\Debug\netcoreapp3.1\LTCSDL.Common.pdb
+F:\------------THUAN----------------\Năm 3\Kỳ 2\LTCSDL\ontap\LTCSDL.Common\obj\Debug\netcoreapp3.1\LTCSDL.Common.csprojAssemblyReference.cache
+F:\------------THUAN----------------\Năm 3\Kỳ 2\LTCSDL\ontap\LTCSDL.Common\obj\Debug\netcoreapp3.1\LTCSDL.Common.AssemblyInfoInputs.cache
+F:\------------THUAN----------------\Năm 3\Kỳ 2\LTCSDL\ontap\LTCSDL.Common\obj\Debug\netcoreapp3.1\LTCSDL.Common.AssemblyInfo.cs
+F:\------------THUAN----------------\Năm 3\Kỳ 2\LTCSDL\ontap\LTCSDL.Common\obj\Debug\netcoreapp3.1\LTCSDL.Common.csproj.CoreCompileInputs.cache
+F:\------------THUAN----------------\Năm 3\Kỳ 2\LTCSDL\ontap\LTCSDL.Common\obj\Debug\netcoreapp3.1\LTCSDL.Common.dll
+F:\------------THUAN----------------\Năm 3\Kỳ 2\LTCSDL\ontap\LTCSDL.Common\obj\Debug\netcoreapp3.1\LTCSDL.Common.pdb

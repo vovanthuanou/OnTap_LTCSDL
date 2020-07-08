@@ -1,0 +1,21 @@
+<p>category works!</p>
+<h1 id="tableLabel">category</h1>
+<!-- show table đc copy từ fetchdata -->
+<table class='table table-striped' aria-labelledby="tableLabel" *ngIf="listCategory">
+    <thead>
+      <tr>
+        <th>categoryId</th>
+        <th>categoryName</th>
+        <th>description</th>
+        <th>picture</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let category of listCategory"> <!--  duyệt -->
+        <td>{{ category.categoryId }}</td>
+        <td>{{ category.categoryName }}</td>
+        <td>{{ category.description }}</td>
+        <td>{{ category.picture }}</td>
+      </tr>
+    </tbody>
+  </table>

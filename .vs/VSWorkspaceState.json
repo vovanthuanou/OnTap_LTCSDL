@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\LTCSDL.Common\\BLL",
+    "\\LTCSDL.Common\\DAL",
+    "\\LTCSDL.DAL",
+    "\\LTCSDL.DAL\\Models"
+  ],
+  "SelectedNode": "\\LTCSDL.DAL\\NorthwindContext.cs",
+  "PreviewInSolutionExplorer": false
+}
